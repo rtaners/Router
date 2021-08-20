@@ -1,0 +1,12 @@
+{
+    "name": "rtaners/routing",
+    "description": "Routing System For Rtaners Framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Recep Taner Sönmez",
+            "email": "rtaners@yandex.com"
+        }
+    ],
+    "require": {}
+}
