@@ -2,6 +2,7 @@
     "name": "rtaners/routing",
     "description": "Routing System For Rtaners Framework",
     "type": "library",
+    "version": "1.0.0",
     "keywords": [
         "router",
         "route",
