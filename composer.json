@@ -2,6 +2,13 @@
     "name": "rtaners/routing",
     "description": "Routing System For Rtaners Framework",
     "type": "library",
+    "keywords": [
+        "router",
+        "route",
+        "routing"
+    ],
+    "homepage": "git@github.com:rtaners/Router.git",
+    "license": "MIT",
     "authors": [
         {
             "name": "Recep Taner Sönmez",
