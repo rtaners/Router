@@ -8,13 +8,16 @@
         "route",
         "routing"
     ],
-    "homepage": "git@github.com:rtaners/Router.git",
+    "require": {
+        "php": ">=7.2.5",
+        "ext-json": "*"
+    },
+    "homepage": "https://github.com/rtaners/Router",
     "license": "MIT",
     "authors": [
         {
             "name": "Recep Taner Sönmez",
             "email": "rtaners@yandex.com"
         }
-    ],
-    "require": {}
+    ]
 }
